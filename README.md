@@ -7,9 +7,10 @@ Este es un juego de consola desarrollado en C# donde el jugador debe adivinar un
 ## Estructura del Proyecto
 ```
 GuessingGame/
-?
-??? Program.cs          
-??? README.md          
+|
+|--- GuessingGame.csproj
+|--- Program.cs          
+|--- README.md          
 ```
 
 ## Características
